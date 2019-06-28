@@ -21,8 +21,8 @@ cd selenium-nodejs-scr
 npm init -y
 npm install selenium-webdriver
 ```
-### Start node and capture a website screenshot of "http://google.com"
+### Start node and capture a website screenshot of "http://google.com" and "https://demo.consul.io"
 ```
 node index
 ```
-### Screenshot will be saved in the project root directory with name "scr.png"
+### Screenshot will be saved in the project root directory with extension "*.png"
