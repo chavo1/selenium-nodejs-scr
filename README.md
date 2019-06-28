@@ -25,4 +25,4 @@ npm install selenium-webdriver
 ```
 node index
 ```
-### Screenshot will be saved in your root directory with name "scr.png"
+### Screenshot will be saved in the project root directory with name "scr.png"
