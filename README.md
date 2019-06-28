@@ -1,13 +1,13 @@
 # This repo contain Selenium-NodeJS Example - How to get screenshot of webpage.
 ## Requirements
-### Install [nodejs](https://nodejs.org/en/) for mac you can use brew:
+### Install [nodejs](https://nodejs.org/en/)
+- for mac you can use brew:
 ```
 brew install node
 ```
-### Install [npm selenium-webdriver](https://www.npmjs.com/package/selenium-webdriver)
-
-- download needed driver for desired browser you want to test
-- in my case I use [geckodriver] for Mozila (https://github.com/mozilla/geckodriver/releases/) for mac you can use brew:
+### Download needed driver for desired browser you want to test
+- in my case I use [geckodriver](https://github.com/mozilla/geckodriver/releases/) for [Firefox-Mozilla](https://www.mozilla.org/)
+- for mac you can use brew:
 ```
 brew install geckodriver
 ```
